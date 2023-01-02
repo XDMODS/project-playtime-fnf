@@ -1,0 +1,26 @@
+{
+	"storyName": "<<WEEK>> BOXY BOO>>",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"bf",
+		"bf",
+		"bf"
+	],
+	"songs": [
+		[
+			"Jack-o-fun",
+			"boxy",
+			[
+				125,
+				0,
+				40
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Boxy"
+}
