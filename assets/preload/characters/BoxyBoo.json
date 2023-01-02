@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BoxyIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BoxyLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				1
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BoxyUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				8
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BoxyDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-53,
+				-2
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BoxyRight",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BoxyBoo",
+	"position": [
+		-20,
+		200
+	],
+	"healthicon": "boxy",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		35,
+		0
+	],
+	"camera_position": [
+		-250,
+		-170
+	],
+	"sing_duration": 6.1,
+	"scale": 2.4
+}
